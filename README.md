@@ -14,5 +14,5 @@ Tool condition experimental data are collected under 2 different manufacturing c
 - **principle component analysis (PCA)** for data compression and model testing
 - compare all the modelling results
 
-Read the manual.pdf for more information on milling machine.
+Read the pdf for more information on milling machine.
 [manual.pdf](https://github.com/roylcl/machine-tool-condition/files/14490103/manual.pdf)
